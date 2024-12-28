@@ -27,6 +27,9 @@
 ```
 docker node ls
 ```
+## Ответ к задаче 1
+![alt text](https://github.com/VN351/virt-04-docker-in-practice/raw/main/images/task-1-1.png)
+![alt text](https://github.com/VN351/virt-04-docker-in-practice/raw/main/images/task-1.png)
 ## Задача 2 (*) (необязательное задание *).
 1.  Задеплойте ваш python-fork из предыдущего ДЗ(05-virt-04-docker-in-practice) в получившийся кластер.
 2. Удалите стенд.
